@@ -1,0 +1,20 @@
+composer:
+  last: Galuppi
+  first: Baldassare
+title: Jesu corona virginum
+id: BurG IV/5
+genre: hymn
+scoring: S, A, T, B (coro), clno (C), 2 vl, vla, b, org
+license: cc-by-nc-sa-4.0
+sources:
+  B1:
+    siglum: F-Pn
+    shelfmark: D-4262 (2)
+    date: ca. 1740
+    rism:
+    url: https://gallica.bnf.fr/ark:/12148/btv1b8562432x
+    license: custom (free for non-commercial purposes)
+    principal: true
+imslp:
+parts:
+  clno: Clarino in C
